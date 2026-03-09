@@ -10,6 +10,6 @@ Discord: @tjgta4
 
 <div align="center">
 
-  <img width="25%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TJGTA3&theme=github_dark" />
+  <img width="55%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TJGTA3&theme=github_dark" />
 
 </div>
